@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">ProfitRide</string>
-    <string name="accessibility_desc">ProfitRide folosește accesibilitatea pentru a detecta când ești în Bolt/Uber/Waze și pentru a pausa sau reseta afișajul. Nu apasă butoane în locul tău.</string>
-</resources>
