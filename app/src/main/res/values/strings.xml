@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">ProfitRide</string>
-    <string name="accessibility_desc">Detectează când Waze, Bolt Driver sau Uber Driver sunt în prim plan pentru a ascunde sau afișa overlay-ul ProfitRide.</string>
-</resources>
